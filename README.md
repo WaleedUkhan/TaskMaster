@@ -1,6 +1,5 @@
 # TaskMaster - Modern Task Management Application
 
-![TaskMaster Screenshot](https://github.com/oliver-gomes/todo-next-sactions/assets/32399333/1fac414b-07f5-4ac8-872a-903a22e01d08)
 
 TaskMaster is a modern, full-stack task management application built with Next.js 14, TypeScript, Prisma, and MongoDB. It features a beautiful, responsive UI with dark mode support and smooth animations.
 
@@ -44,7 +43,7 @@ TaskMaster is a modern, full-stack task management application built with Next.j
 - Node.js 18+ installed
 - MongoDB database
 - npm or yarn package manager
-
+<!-- 
 ### Installation
 
 1. Clone the repository:
@@ -79,7 +78,7 @@ TaskMaster is a modern, full-stack task management application built with Next.j
    yarn dev
    ```
 
-6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+6. Open [http://localhost:3000](http://localhost:3000) in your browser. -->
 
 ## 📁 Project Structure
 
@@ -127,19 +126,6 @@ src/
 - Smooth transitions
 - Loading states
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -148,8 +134,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for the utility-first CSS framework
 - React Icons for the beautiful icons
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/taskmaster](https://github.com/yourusername/taskmaster)
