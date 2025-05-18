@@ -1,6 +1,6 @@
 # TaskMaster - Modern Task Management Application
 
-![TaskMaster Screenshot](https://github.com/oliver-gomes/todo-next-sactions/assets/32399333/1fac414b-07f5-4ac8-872a-903a22e01d08)
+
 
 TaskMaster is a modern, full-stack task management application built with Next.js 14, TypeScript, Prisma, and MongoDB. It features a beautiful, responsive UI with dark mode support and smooth animations.
 
